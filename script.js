@@ -8,7 +8,7 @@ const modalHeading = document.querySelector('.modal h1');
 
 // Array of messages
 const messages = [
-  'Use the X to close the modal 👉🏻',
+  'Press the X to close the modal 👉🏻',
   'Press on the overlay to close the modal 🫨 (Press outside the modal)',
   'Press Esc on your keyboard to close the modal 🙂',
 ];
